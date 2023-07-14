@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
    
-    @State private var name = "I'm a Potter Head"
+    @State private var name = "I'm a Potter Head!"
     @State private var textTitle = ""
     
     var body: some View {
